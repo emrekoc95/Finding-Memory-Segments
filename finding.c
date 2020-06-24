@@ -1,4 +1,3 @@
-//152120141041 - Emre KOÇ
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
